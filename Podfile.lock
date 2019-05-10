@@ -1,0 +1,24 @@
+PODS:
+  - Stripe (13.2.0)
+  - SVProgressHUD (2.2.5)
+  - Toast-Swift (4.0.0)
+
+DEPENDENCIES:
+  - Stripe
+  - SVProgressHUD
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Stripe
+    - SVProgressHUD
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Stripe: 2c69e216061d54d9c538204bb4f58bd597ddfc5b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast-Swift: 594b5c5e5129f15438e410207e43287f027b3c00
+
+PODFILE CHECKSUM: a1abf50c982c8bcdbb58d9290ae3b78634fa8b99
+
+COCOAPODS: 1.5.3
